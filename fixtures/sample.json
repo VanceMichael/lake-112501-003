@@ -1,5 +1,27 @@
 {
   "说明": "本地合成演练资料",
   "业务对象": "跨设备传感器校准的事件时窗与湖表重写",
-  "记录": []
+  "记录": [
+    {
+      "device": "D-2",
+      "generation": "g7",
+      "event_time": "2026-10-06T00:00:00Z",
+      "reading": 12.4,
+      "calibration": "c1"
+    },
+    {
+      "device": "D-2",
+      "generation": "g7",
+      "event_time": "2026-10-06T00:00:01Z",
+      "reading": 0,
+      "calibration": "c1"
+    },
+    {
+      "device": "D-2",
+      "generation": "g8",
+      "event_time": "2026-10-06T00:00:02Z",
+      "reading": 12.5,
+      "calibration": "c2"
+    }
+  ]
 }
